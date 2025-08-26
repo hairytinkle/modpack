@@ -1,0 +1,13 @@
+filename = 'itemcounts-1.6.1+mc1.21.6.jar'
+name = 'Item Counts'
+side = 'client'
+
+[download]
+hash = '2dd98c7bdb410f69a6b988c8117d6f47969c2ce36808fe241df5d1ba1de48330411c50e9af036776a1cdb0f0792636cb507a7d5ac45701933a7e1e54aeff1921'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/prI9FWcP/versions/z5poSBvU/itemcounts-1.6.1%2Bmc1.21.6.jar'
+
+[update.modrinth]
+mod-id = 'prI9FWcP'
+version = 'z5poSBvU'

@@ -1,0 +1,13 @@
+filename = 'Too Many Entities 1.21.6 Fabric v1.2.1.jar'
+name = 'Too Many Entities'
+side = 'client'
+
+[download]
+hash = '05c23669b9381739b096c438a73d657ac283f14bd0e3a95a2ebb76b8ee260bc3d0d7443c4d128ff6c83d1963a3065917656f2e77432824368c5395b38a99d83a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BvnRxzIF/versions/aqGSTXi3/Too Many Entities 1.21.6 Fabric v1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'BvnRxzIF'
+version = 'aqGSTXi3'
