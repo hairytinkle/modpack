@@ -1,0 +1,13 @@
+filename = 'inventoryessentials-fabric-1.21.8-21.8.2.jar'
+name = 'Inventory Essentials'
+side = 'both'
+
+[download]
+hash = '0f33846f2ea969b180a0d1df658ef8d414e6d7f014a0422d99cd0566602923c493767df81fbc295b9ef45e215d7bcb9f7c34c543a23273d73552ca3d80475c18'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Boon8xwi/versions/RebPtUPU/inventoryessentials-fabric-1.21.8-21.8.2.jar'
+
+[update.modrinth]
+mod-id = 'Boon8xwi'
+version = 'RebPtUPU'
