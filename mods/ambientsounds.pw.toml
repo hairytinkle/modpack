@@ -1,0 +1,13 @@
+filename = 'AmbientSounds_FABRIC_v6.1.11_mc1.21.8.jar'
+name = 'AmbientSounds 6'
+side = 'both'
+
+[download]
+hash = '720a5794928b43d262d91a641380569c67041abb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6850382
+project-id = 254284
