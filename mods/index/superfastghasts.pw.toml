@@ -1,0 +1,13 @@
+filename = 'superfastghasts-1.jar'
+name = 'Super Fast Ghasts'
+side = 'both'
+
+[download]
+hash = '5fcb8eb398fd0bf230508856b825478bcaf7278d0148499c40f4000671f3b52935712bde62519658c66952e9c806767a69c5ee6cf7172d6a3eff5a0104887603'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r6mI3GXg/versions/dvF1NW3k/superfastghasts-1.jar'
+
+[update.modrinth]
+mod-id = 'r6mI3GXg'
+version = 'dvF1NW3k'
