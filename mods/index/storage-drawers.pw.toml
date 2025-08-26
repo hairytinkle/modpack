@@ -6,7 +6,7 @@ side = 'both'
 hash = '50390122d4252191cea8c2bef0a57cd37122d7a3'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
+url = 'https://cdn.modrinth.com/data/guitPqEi/versions/W4GbkpMI/StorageDrawers-fabric-1.21.8-18.3.0.jar'
 
 [update.curseforge]
 file-id = 6925938
