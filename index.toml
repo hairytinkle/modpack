@@ -6377,10 +6377,6 @@ file = "mods/StorageDrawers-fabric-1.21.8-18.3.0.jar"
 hash = "5489a2ef878e09bb8757a21fc9081d95662de6bb9beb00001bc310174ef1eb8d"
 
 [[files]]
-file = "mods/Too Many Entities 1.21.6 Fabric v1.2.1.jar"
-hash = "db6c50995b5c99595fb2c72f4e07d6d12037b5c13f854becfb513361699109f9"
-
-[[files]]
 file = "mods/[KelpMC] Ilmango Bone Meal Farm.litematic"
 hash = "cff859389fd8c7bf2ac9ef12b7db6a3c5415ec5078b64d57b127da7e87b6a100"
 
